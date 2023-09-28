@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a **Next.js App**
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
-@
+
 - 📫 How to reach me **mouazalhasanat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
